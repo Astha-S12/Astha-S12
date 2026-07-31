@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Astha Shetty 👋
 
-<!--
-**Astha-S12/Astha-S12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-Year Computer Engineering Student
 
-Here are some ideas to get you started:
+💻 Interested in Full-Stack Development & Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Learning AWS
+
+## Tech Stack
+
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- Flask
+- MySQL
+- AWS
+- Git
+- GitHub
+
+## Featured Projects
+
+### Student Management System
+CRUD web application using Flask and MySQL.
+
+Tech:
+Flask • MySQL • HTML • CSS
+
+🔗 Live Demo:
+https://student-management-system-8-8v7h.onrender.com/
+
+---
+
+### Cloud Resume Challenge
+
+Static resume website deployed using AWS S3 and CloudFront.
+
+Tech:
+AWS • HTML • CSS
+
+🔗 Live Demo:
+http://resume-challenge-project-1.s3-website.ap-south-1.amazonaws.com/
+
+## Currently Learning
+
+- React
+- Node.js
+- DSA
+- Docker
+
+## Reach Me
+
+LinkedIn:
+www.linkedin.com/in/astha-shetty-3a3a97320
+
+Email:
+aashetty12@gmail.com
